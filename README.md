@@ -1,8 +1,10 @@
 # Github-Commands
-<h1>Every new laptop purchase?</h1>
-- Git software install https://git-scm.com/download/win
-- git config --global user.name "yourname"
-- git config --global user.email "youremail@gmail.com"
+Every new laptop purchase?
+<ol>
+<li>- Git software install https://git-scm.com/download/win</li>
+<li>- git config --global user.name "yourname"</li>
+<li>- git config --global user.email "youremail@gmail.com"</li>
+</ol>
 
 ## Every new project?
 - git init
