@@ -1,5 +1,5 @@
 # Github-Commands
-Every new laptop purchase?
+<h1>Every new laptop purchase?</h1>
 - Git software install https://git-scm.com/download/win
 - git config --global user.name "yourname"
 - git config --global user.email "youremail@gmail.com"
