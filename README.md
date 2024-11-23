@@ -18,6 +18,6 @@ Every new laptop purchase?
    <li> git remote add origin "remote url/path"</li>
   <li> git push origin master</li>
 </ol>
-![Alt text](D:\CODING\os\practice\github-commands\git_commands.png)
+![Alt text](git_commands.png)
 
 <p>Hello</p>
