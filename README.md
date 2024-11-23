@@ -9,14 +9,17 @@ Every new laptop purchase?
 ## Every new project?
 <ol>
   <li> git init</li>
+  <li> git remote add origin "remote url/path"</li>
+
 </ol>
 
 ## Every new file added/change/delete?
 <ol>
-  <li> git add -A </li>
+  <li> git add . </li>
   <li> git commit -m "initial commit"</li>
+    <li> git branch -M main</li>
    <li> git remote add origin "remote url/path"</li>
-  <li> git push origin master</li>
+  <li> git push origin main</li>
 </ol>
 ![Alt text](git_commands.png)
 
