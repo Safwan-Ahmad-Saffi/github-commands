@@ -34,5 +34,4 @@ Every new laptop purchase?
 <li>switch & create branch:-> git checkout -b <name></li>
 <li>delete branch       :-> git branch -d <name></li>
 <li>git & github</li>
->>>>>>> main2
 </ol>
