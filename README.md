@@ -26,14 +26,14 @@ Every new laptop purchase?
 <p>Hello</p>
 <ol>
 <h2>More commands</h2>
-<li>status check:-> to check status</li>
-<li>remote repo:-> git remote -v</li>
-<li>change name:-> git branch -M main</li>
-<li>new branch :-> git branch <main></li>
-<li>current branch :-> git branch</li>
-<li>switch branch  :-> git checkout <name></li>
+<li>status check        :-> git status</li>
+<li>remote repo         :-> git remote -v</li>
+<li>change name         :-> git branch -M main</li>
+<li>new branch          :-> git branch <main></li>
+<li>current branch      :-> git branch</li>
+<li>switch branch       :-> git checkout <name></li>
 <li>switch & create branch:-> git checkout -b <name></li>
-<li>delete branch  :-> git branch -d <name></li>
+<li>delete branch       :-> git branch -d <name></li>
 <li></li>
 <li></li>
 <li></li>
