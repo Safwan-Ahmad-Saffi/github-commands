@@ -23,7 +23,6 @@ Every new laptop purchase?
 </ol>
 ![Alt text](git_commands.png)
 
-<p>Hello</p>
 <ol>
 <h2>More commands</h2>
 <li>status check        :-> git status</li>
@@ -34,4 +33,6 @@ Every new laptop purchase?
 <li>switch branch       :-> git checkout <name></li>
 <li>switch & create branch:-> git checkout -b <name></li>
 <li>delete branch       :-> git branch -d <name></li>
+<li>git & github</li>
+>>>>>>> main2
 </ol>
