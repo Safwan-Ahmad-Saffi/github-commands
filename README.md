@@ -27,7 +27,7 @@ Every new laptop purchase?
 <li>status check        :-> git status</li>
 <li>remote repo         :-> git remote -v</li>
 <li>change name         :-> git branch -M main</li>
-<li>new branch          :-> git branch <main></li>
+<li>new branch          :-> git branch name <main></li>
 <li>current branch      :-> git branch</li>
 <li>switch branch       :-> git checkout <name></li>
 <li>switch & create branch:-> git checkout -b <name></li>
